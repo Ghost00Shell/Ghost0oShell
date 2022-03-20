@@ -6,4 +6,4 @@
 - 🧑‍💻I love to Hack (Legally)<br />
 - 🌱 I’m Learning Skills and Tools Required for Front-End Development & Back-End Development<br />
 - 🔭 I’m Working On New Pentesting Tools<br />
-- ⚡ My Website [ Here ](https://codefoxdev.com)
+-  My Website [ Here ](https://codefoxdev.com)
